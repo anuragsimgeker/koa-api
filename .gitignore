@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+
+# debug
+npm-debug.log
+
+# misc
+.DS_Store
+coverage
+
+# everything starting with a dot
+.*
+
+# except
+!.bowerrc
+!.editorconfig
+!.gitattributes
+!.gitignore
+!.gitkeep
+!.npmignore
+!.jscsrc
+!.jshintrc
